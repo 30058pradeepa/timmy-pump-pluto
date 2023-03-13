@@ -51,7 +51,7 @@ main p{
 }
 main h4{
 	max-width: 1200px;
-	background-color: lightblue;
+	background-color: greenyellow;
 	text-align: center; 
 	text-transform: uppercase; 
 	margin: 0 auto;
@@ -80,5 +80,14 @@ h7{
  	margin: 0 auto;
  	text-align: left;
  }
+footer{
+	max-width: 1200px;
+	background-color: lightgreen;
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	border: 3px solid, black;
 
+}
 
