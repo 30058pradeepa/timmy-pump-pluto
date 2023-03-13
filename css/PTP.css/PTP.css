@@ -7,6 +7,7 @@ body h1{
 	font-family: 'Cinzel', serif;
 	font-size: 40px;
 
+
 }
 body{
 	text-align: center;
@@ -21,16 +22,18 @@ body img{
 	border: 5px solid darkred;
 }
 main h2{
+	max-width: 1200px;
 	text-align: left;
-	background-color: lightblue; 
-	backdrop-filter: !important;
-	margin: 30px;
+	background: lightblue;
+	margin: 0 auto;
 	font-size: 30px;
+	padding: o 20px;
 }
 main h3{
+	max-width: 1200px;
 	text-align: left;
 	background-color: lightblue;
-	margin: 20px;
+	margin: 0 auto;
 	font-size: 30px;
 
 }
@@ -41,34 +44,40 @@ main p{
 	border: 3px solid brown;
 	padding-top: 20px;
 	padding-bottom: 20px;
+	margin: 0 auto;
+	line-height: 20px;
 
 
 }
 main h4{
+	max-width: 1200px;
 	background-color: lightblue;
 	text-align: center; 
 	text-transform: uppercase; 
-	margin: 20px;
+	margin: 0 auto;
 	font-size: 30px;
 }
 
  h5{
- 	font-size: 20px;
- 	background-color: lightgreen;
- 	margin: 20px;
+ 	max-width: 1200px;
+ 	font-size: 30px;
+ 	background-color: salmon;
+ 	margin: 0 auto;
  	text-align: left;
  }
 
  h6{
- 	font-size: 20px;
- 	background-color: lightgreen;
- 	margin: 20px;
+ 	max-width: 1200px;
+ 	font-size: 30px;
+ 	background-color: salmon;
+ 	margin: 0 auto;
  	text-align: left;
-
- }
+}
 
  h7{
- 	font-size: 20px;
- 	background-color: lightgreen;
+ 	max-width: 1200px;
+ 	font-size: 30px;
+ 	background-color: salmon;
+ 	margin: 0 auto;
  	text-align: left;
 
